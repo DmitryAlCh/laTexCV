@@ -4,4 +4,4 @@
 ## Creating a PDF from LaTex
 `pdflatex resume.tex`
 ## Preview
-!(preview)[resume_preview.png]
+![preview](./resume_preview.png)
